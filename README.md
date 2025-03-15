@@ -1,5 +1,6 @@
 
 # Parallax Landing Page
+Site is live at https://shojib-80.github.io/Parallax_Landing_Page/
 
 ## Description
 This repository contains a Parallax Landing Page project. The project demonstrates the use of parallax scrolling effects to create a visually appealing landing page. 
